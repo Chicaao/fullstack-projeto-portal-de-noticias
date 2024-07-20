@@ -9,7 +9,7 @@
     margin-inline: auto;
   }
   div:nth-child(3) {
-    justify-self: center;
+    justify-self: end;
   }
 }
 
